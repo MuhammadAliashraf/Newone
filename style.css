@@ -1,0 +1,50 @@
+.pic{
+
+   background-image: url("https://m2.alothemes.com/safi/media/wysiwyg/alothemes/demo3/03banner-01.jpg");
+   background-size: cover;
+   
+}
+.pic-2{
+   background-image: url("https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-02.jpg");
+   background-size: cover;
+}
+.pic-3{
+   background-image: url("https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/03banner-03.jpg");
+   background-size: cover;
+}
+.section-6{
+   background-image: url("https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/bg_block.jpg");
+   background-size: cover;
+   
+}
+.text{
+   margin-left: 921px;
+   margin-top: 120px;
+   height: 70%;
+}
+.foot{
+   background-color: #e4e2e2;
+   height: 100%;
+}
+.section-11{
+   background-color: rgb(207, 207, 207);
+}
+.infobox{
+   margin-top: 95px;
+}
+.info{
+
+
+}
+
+/* ------------------Hover effects---------------- */
+.f-hover :hover{
+   text-decoration: underline;
+   color: rgb(255, 0, 0);
+}
+
+.card-1{
+      border-style: none;
+      
+  
+}
